@@ -7,17 +7,17 @@ from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup
 import yt_dlp
 
 # --- Your Credentials and Configuration ---
-API_ID = 1234567  # Your API ID from my.telegram.org
-API_HASH = "your_api_hash_here" # Your API Hash
-BOT_TOKEN = "your_bot_token_from_botfather" # Your Bot Token
+API_ID = 27073191  # Your API ID from my.telegram.org
+API_HASH = "1a32be9bed70c354d9ffc4c83034d641" # Your API Hash
+BOT_TOKEN = "7619618973:AAFZ9OD5Uu6Gy6p-Ij-OWdZNjOf7T02-2Fg" # Your Bot Token
 
 # --- NEW CONFIGURATION ---
 # The ID of your dump channel. For private channels, it's a number like -100123456789.
 # The bot MUST be an admin in this channel.
-DUMP_CHANNEL_ID = -1001234567890 
+DUMP_CHANNEL_ID = -1002028576263 
 
 # The link for the "More Videos" button
-MORE_VIDEOS_LINK = "https://t.me/your_other_channel_or_bot"
+MORE_VIDEOS_LINK = "https://t.me/dailynewswalla"
 
 # --- Global variable to track progress messages ---
 progress_messages = {}
